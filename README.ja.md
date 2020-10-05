@@ -4,6 +4,10 @@
 
 　SQLite3のSQL文だけでバリデートする(trriger,raise)。
 
+# デモ
+
+![demo](https://github.com/ytyaru/Sqlite3.Validate.Trigger.Raise.20200930093439/blob/master/doc/demo.svg?raw=true)
+
 # 開発環境
 
 * <time datetime="2020-09-30T09:34:29+0900">2020-09-30</time>
